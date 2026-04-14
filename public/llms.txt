@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+SecondClick הוא אתר יד שניה מוביל בישראל לקנייה ומכירה של מוצרים יד שנייה במחירים מעולים. הצטרפו לקהילה הירוקה שמאמינה שכל מוצר מגיע לבית חדש.
+
+### איך זה עובד
+https://example.com/how-it-works
+גלו כיצד SecondClick הופך קנייה ומכירה של מוצרים יד שנייה לחוויה קלה ומהנה. מפרסום מודעה ועד עסקה מוצלחת — המדריך המלא שלכם לקנייה ירוקה חכמה.
+
+### אודות
+https://example.com/about
+SecondClick נולד מתוך אמונה שקנייה ירוקה של מוצרים יד שנייה משנה את העולם לטובה. הכירו את הצוות, החזון והמשימה שהפכו אותנו לחנות יד שנייה אונליין המובילה בישראל.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם צוות SecondClick ותקבלו מענה מהיר לכל שאלה בנושא קנייה ומכירה של מוצרים יד שנייה. אנחנו כאן כדי לוודא שכל עסקה בחנות יד שנייה אונליין שלנו תהיה מושלמת.
+
+### Products
+https://example.com/products
+המוצרים שלנו - SecondClick
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - SecondClick
+
+### Category
+https://example.com/category/:slug
+מוצרים - SecondClick
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
